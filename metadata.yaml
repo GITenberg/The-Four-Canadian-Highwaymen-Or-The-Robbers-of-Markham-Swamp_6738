@@ -1,0 +1,23 @@
+_repo: The-Four-Canadian-Highwaymen-Or-The-Robbers-of-Markham-Swamp_6738
+creator:
+  author:
+    agent_name: Collins, J. E. (Joseph Edmund)
+    alias: Collins, Joseph Edmund
+    birthdate: 1855
+    deathdate: 1892
+    gutenberg_agent_id: '2141'
+    url: http://www.gutenberg.org/2009/agents/2141
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: The Four Canadian Highwaymen; Or, The Robbers of Markham Swamp
+url: http://www.gutenberg.org/ebooks/6738
